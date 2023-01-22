@@ -1,0 +1,224 @@
+.body{
+  clear: both;
+    content: '.';
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+  background-color: bisque;
+}
+
+
+.facebook{
+  color: rgb(81, 81, 241);
+  margin-top:12% ;
+  margin-left: 12%;
+  font-size: 70px;
+  margin-bottom: 0%;
+}
+.Signup{
+  position: relative;
+  bottom: 50px;
+  left: 60px;
+}
+.p{
+margin-left: 12%;
+}
+.email{
+  width: 300px;
+  height: 30px;
+}
+.p2{
+  font-size: medium;
+  position: relative;
+  bottom: 20px;
+  left: 10px;
+}
+.linebreak{
+  position: relative;
+  bottom: 25px;
+}
+.Firstname{
+  width: 182px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  bottom: 20px;
+}
+.Surname{
+  width: 182px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  bottom: 20px;
+}
+.facebook{
+  color:#1877f2;
+}
+
+.Password{
+  margin-top: 2%;
+  width: 300px;
+  height: 30px;
+}
+
+.button{
+  border: none;
+  border-radius: 6px;
+  color: white;
+  background-color: #1877f2;
+  margin-top: 2%;
+  width: 309px;
+  height: 33px;
+  border-style: groove;
+}
+
+.container{
+  text-align: center;
+padding-top: 3%;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 0px;
+position: relative;
+background: transparent;
+box-shadow: 0px 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+border-radius: 5px;
+position: relative;
+left: 290px;
+}
+.p1{
+  font-size: medium;
+  position: relative;
+  bottom: 30px;
+  left: 10px;
+}
+.email2{
+  width: 376px;
+  height: 30px; 
+  position: relative;
+  left: 10px;
+  bottom: 30px;
+}
+.Password2{
+  margin-top: 3%;
+  width: 376px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  bottom: 35px;
+}
+.Date{
+  border-radius: 4px;
+  color: #1c1e21;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  width: 123px;
+  height: 27px;
+  line-height: 20px;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.Month{
+  border-radius: 4px;
+  color: #1c1e21;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  width: 123px;
+  height: 27px;
+  line-height: 20px;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.Year{
+  border-radius: 4px;
+  color: #1c1e21;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  width: 123px;
+  height: 27px;
+  line-height: 20px;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.Gender{
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.Radio{
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.p3{
+  color: #777;
+  font-size: 11px;
+  width: 300px;
+  position: relative;
+  bottom: 25px;
+  left: 6px;
+}
+.p4{
+  color: #777;
+  font-size: 11px;
+  width: 300px;
+  position: relative;
+  bottom: 25px;
+  left: 6px;
+}
+.container2{
+background-color: #42b72a; 
+color:white;
+border-radius: 6px; 
+box-shadow: 2px 2px 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+border-style: groove; 
+text-align: center;
+text-decoration: none;
+display: inline-block; 
+padding: 10px 15px; 
+margin-left: 0px;
+position: relative;
+bottom: 25px;
+left: 115px;
+width: 150px;
+}
+.Falhan{
+  padding: 10px 0;
+  position: relative;
+  text-align: center;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+.container2{
+  width: 400px;
+  height: 500px;
+  background: transparent;
+  box-shadow: 2px 2px 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+  border-radius: 8px;
+  position: relative;
+  bottom: 355px;
+  left: 740px;
+}
+
+
+
+/*.container{
+  text-align: center;
+padding-top: 3%;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 0px;
+position: relative;
+background: rgb(216, 218, 204);
+border-radius: 5px;
+position: relative;
+left: 300px;
+}/*
